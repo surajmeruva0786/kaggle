@@ -1,0 +1,24 @@
+{
+  "title": "Streaming Content Catalog: Netflix, Prime, Disney+ & More",
+  "id": "your-username/streaming-content-catalog-netflix-prime-disney",
+  "subtitle": "15K titles from 10 streaming platforms with IMDb, Rotten Tomatoes ratings, cast & metadata",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC BY-SA 4.0"
+    }
+  ],
+  "keywords": [
+    "movies and tv shows",
+    "entertainment",
+    "streaming",
+    "netflix",
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "classification",
+    "nlp",
+    "recommender systems",
+    "regression"
+  ]
+}
