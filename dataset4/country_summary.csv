@@ -1,0 +1,47 @@
+country,region,total_events,total_deaths,total_affected,total_damage_usd,most_common_disaster,avg_severity
+Afghanistan,Asia,63,1642,804400,18564746560,Earthquake,1.9
+Algeria,Africa,82,39333,7890534,14770973339,Wildfire,2.02
+Argentina,South America,47,3139,1617043,15785487500,Wildfire,1.98
+Armenia,Asia,17,215,99768,262838083,Earthquake,1.88
+Australia,Oceania,318,23520,11206255,264179007660,Flood,2.01
+Bangladesh,Asia,323,25253,8378067,75720961746,Flood,2.03
+Brazil,South America,323,12638,8691106,169880523172,Flood,1.95
+Canada,North America,55,10125,3913268,8071719804,Wildfire,2.15
+Chile,South America,353,85545,24785716,143843097935,Earthquake,2.17
+China,Asia,443,53892,20423548,945884212916,Earthquake,1.99
+Colombia,South America,347,16617,7267789,244477770813,Flood,2.06
+Ecuador,South America,59,5731,2647152,49375380874,Earthquake,2.08
+Ethiopia,Africa,13,1753,642593,11949277485,Earthquake,2.15
+France,Europe,53,2129,826230,51546902797,Wildfire,2.13
+Greece,Europe,133,20853,8282628,40248021794,Earthquake,1.92
+Guatemala,North America,28,3373,1295871,4039477260,Earthquake,1.89
+Haiti,North America,39,6772,1572989,88818381589,Earthquake,2.1
+India,Asia,486,85829,25274309,75035326471,Flood,2.02
+Indonesia,Asia,712,90355,32381697,843329425639,Earthquake,2.06
+Iran,Asia,71,8723,2005104,2435011237,Earthquake,2.04
+Italy,Europe,141,13152,4103147,47443409833,Earthquake,2.04
+Japan,Asia,434,94531,19272177,524521434749,Earthquake,2.02
+Kenya,Africa,261,44109,19651136,148965033376,Flood,2.07
+Mexico,North America,474,43625,22366023,326775541094,Earthquake,2.11
+Morocco,Africa,105,20902,6345526,17027535978,Wildfire,1.97
+Myanmar,Asia,333,65211,25609180,228571440437,Flood,1.97
+Nepal,Asia,422,29832,14362942,126000461575,Earthquake,2.05
+New Zealand,Oceania,89,3926,1946247,15067910291,Earthquake,2.03
+Nigeria,Africa,284,40670,14706067,219535040170,Flood,2.04
+Pakistan,Asia,330,25202,10310649,297375799520,Flood,1.98
+Papua New Guinea,Oceania,31,375,428443,4049010605,Earthquake,2.1
+Peru,South America,138,154355,67186160,16303619357,Earthquake,1.99
+Philippines,Asia,516,29539,11931617,196147192177,Earthquake,2.03
+Portugal,Europe,48,5145,2573308,98053857941,Wildfire,2.12
+Romania,Europe,10,215,144388,3501844441,Earthquake,2.0
+Russia,Asia/Europe,75,1669,817170,13057422375,Wildfire,1.91
+Somalia,Africa,297,22928,11202034,109374575536,Flood,2.07
+South Africa,Africa,44,4504,1752937,5210991271,Wildfire,2.14
+South Sudan,Africa,296,30298,12508136,84343884570,Flood,1.94
+Spain,Europe,55,2508,2071274,67255269525,Wildfire,2.11
+Sudan,Africa,247,9094,5052092,63687311683,Flood,1.99
+Taiwan,Asia,27,490,351355,17294697807,Earthquake,2.15
+Thailand,Asia,324,24889,7309647,227254906770,Flood,1.94
+Turkey,Europe/Asia,218,12511,4540398,178394708772,Earthquake,1.98
+United States,North America,578,64351,47539050,292792384587,Earthquake,2.05
+Vietnam,Asia,258,89926,30828721,98074705229,Flood,2.01

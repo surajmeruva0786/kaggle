@@ -1,0 +1,25 @@
+{
+  "title": "Global Earthquake & Natural Disasters 1990-2026",
+  "id": "your-username/global-earthquake-natural-disasters-1990-2026",
+  "subtitle": "15K events \u2014 earthquakes, floods, wildfires & more with casualties, damage & geospatial data",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC BY-SA 4.0"
+    }
+  ],
+  "keywords": [
+    "earth science",
+    "environment",
+    "geospatial analysis",
+    "natural language processing",
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "classification",
+    "regression",
+    "time series analysis",
+    "climate",
+    "public health"
+  ]
+}
