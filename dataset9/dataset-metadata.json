@@ -1,0 +1,25 @@
+{
+  "title": "Formula 1 Race Intelligence 2010-2026",
+  "id": "your-username/formula-1-race-intelligence-2010-2026",
+  "subtitle": "17 seasons of F1 \u2014 race results, qualifying, lap times, tyre strategy & weather across 29 circuits",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC BY-SA 4.0"
+    }
+  ],
+  "keywords": [
+    "motorsports",
+    "formula 1",
+    "sports",
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "regression",
+    "classification",
+    "machine learning",
+    "strategy",
+    "racing"
+  ]
+}

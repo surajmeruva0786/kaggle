@@ -1,0 +1,34 @@
+HIIT vs Hypertrophy Workout Gains Dataset
+A Physiological Comparison of Body Composition & Cardiovascular Adaptations
+
+HIIT vs Hypertrophy Workout Gains Dataset
+
+Code
+
+Download
+About Dataset
+Context
+Understanding the physiological divergent pathways between High-Intensity Interval Training (HIIT) and traditional Hypertrophy (Resistance) training remains a fundamental topic in sports science, personalized coaching, and health informatics. While HIIT targets cardiorespiratory adaptations ($VO_2\text{ Max}$ shifts), resistance training primarily emphasizes mechanical tension to drive myofibrillar protein synthesis (muscle hypertrophy).
+
+This dataset tracks a cohort of 200 diverse participants across a strict 12-week intervention window, investigating body composition shifts, cardiovascular improvements, and the critical intersection of training compliance and baseline nutrition.
+
+Dataset Structure & Data Dictionary
+The dataset is structured as a single flat CSV (hiit_vs_hypertrophy_gains.csv) containing 200 rows and 12 features, with no missing values.
+
+Column Name	Data Type	Value Range / Categories	Description
+Participant_ID	String	P001 - P200	Unique alphanumeric identifier for each participant.
+Age	Integer	18 – 55	Age of the participant in years.
+Gender	String	Male, Female	Self-reported gender identity.
+Group	String	HIIT_Only, Hypertrophy_Only, Concurrent	Training protocol intervention assignment.
+Duration_Weeks	Integer	12	Static duration of the monitored training block.
+Compliance_Rate	Float	0.00 – 1.00	Fraction of scheduled workouts fully executed by the participant.
+Initial_Body_Fat_Pct	Float	10.0 – 35.0	Baseline body fat percentage measured via dual-energy X-ray absorptiometry (DEXA).
+Final_Body_Fat_Pct	Float	4.0 – 34.0	Post-intervention body fat percentage.
+Initial_Lean_Mass_kg	Float	42.0 – 85.0	Baseline fat-free skeletal muscle mass in kilograms.
+Final_Lean_Mass_kg	Float	42.0 – 95.0	Post-intervention fat-free skeletal muscle mass.
+VO2_Max_Change_Pct	Float	-1.0 – 22.0	Percentage change in cardiorespiratory fitness ($VO_2\text{ Max}$).
+Dietary_Condition	String	Surplus, Deficit, Maintenance	Primary nutritional/caloric state maintained across the 12 weeks.
+Key Machine Learning & Analytics Challenges
+Multi-Class Classification: Can your model determine a participant's assigned Group using only post-intervention delta outputs (Body_Fat shift, Lean_Mass shift, and VO2_Max_Change_Pct)?
+Regression Modeling: Predict the Final_Lean_Mass_kg or overall muscle hypertrophy using baseline demographics, compliance metrics, and nutritional settings.
+Feature Interaction Analysis: Is the variance in concurrent training performance optimization driven strictly by Compliance_Rate or does Dietary_Condition act as the primary gating metric?
