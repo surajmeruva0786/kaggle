@@ -1,0 +1,47 @@
+About Dataset
+🌍 Global Renewable Energy Transition Tracker (2000–2025)
+50 countries · 26 years · 25 columns · Analysis-ready CSV
+
+This dataset tracks the global shift from fossil fuels to renewable energy across the top 50 electricity-producing countries from 2000 to 2025. It combines data from Our World in Data, Ember, and IEA into a single clean CSV — enriched with CO₂ savings estimates, year-on-year growth rates, and 59 real policy milestones (Paris Agreement, IRA, Energiewende, COP26 pledges, and more).
+
+Why this dataset?
+In 2025, solar and wind grew fast enough to meet all new global electricity demand for the first time. China's solar capacity surpassed 1 TW. Wind and solar hit 30% of EU electricity, beating fossil fuels. This dataset lets you study and visualise that transformation in detail.
+
+Key facts you can discover
+China's solar electricity grew 450x from 2000 to 2025 (1.2 → 1,175 TWh)
+The US Inflation Reduction Act (2022) coincides with the steepest wind growth inflection in US history
+Norway has maintained >98% low-carbon electricity since 2000 (hydropower)
+Germany's carbon intensity dropped from 585 → <300 gCO₂/kWh post-Energiewende
+India's renewables share jumped from 14% (2000) to ~30% (2025), driven almost entirely by solar and wind post-2015
+Suggested use cases
+Time-series forecasting — predict solar/wind growth by country
+Policy impact analysis — did the IRA, EEG, or COP26 pledges actually bend the curve?
+Cross-country dashboards — who is leading, who is lagging?
+CO₂ savings estimation — how much carbon has the transition avoided?
+Clustering — group countries by transition speed, income level, or strategy
+EDA practice — clean, beginner-friendly for Pandas, Seaborn, Plotly
+Coverage
+50 countries covering ~92% of global electricity production
+2000–2025 (26 years, 1,294 rows)
+Regions: Asia, Europe, North America, South America, Middle East, Africa, Oceania
+Data sources
+Our World in Data — Energy Data (CC-BY 4.0): https://github.com/owid/energy-data
+Ember — Yearly Electricity Data: https://ember-energy.org/data/yearly-electricity-data/
+IEA — Renewables Progress Tracker: https://www.iea.org
+Policy milestones compiled from IEA, IRENA, and national government sources
+⚠️ co2_saved_solar_wind_mt uses a gas-displacement estimate (450 gCO₂/kWh baseline). Indicative only — not an official figure.
+
+License: CC-BY 4.0 — please credit Our World in Data and Ember in published work.
+
+global_renewable_energy_transition_2000_2025.csv(204.78 kB)
+
+10 of 25 columns
+
+About this file
+
+Suggest Edits
+Single CSV file containing yearly renewable energy data for the top 50 electricity-producing countries from 2000 to 2025.
+
+Format: CSV (comma-separated), UTF-8 encoded Rows: 1,294 (one row per country per year) Columns: 25 File size: ~200 KB
+
+Includes electricity generation by source (solar, wind, hydro, nuclear, fossil), share percentages, carbon intensity, estimated CO₂ savings, year-on-year growth rates, and policy milestone annotations. No duplicate rows. Missing values represented as empty cells (not zeros).

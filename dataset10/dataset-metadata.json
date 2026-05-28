@@ -1,0 +1,25 @@
+{
+  "title": "Global Space Mission Database 1957-2026",
+  "id": "your-username/global-space-mission-database-1957-2026",
+  "subtitle": "Every orbital & suborbital launch across 70 years \u2014 rockets, payloads, outcomes, costs & crew",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC BY-SA 4.0"
+    }
+  ],
+  "keywords": [
+    "space",
+    "astronomy",
+    "science",
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "classification",
+    "regression",
+    "history",
+    "geospatial analysis",
+    "time series analysis",
+    "physics"
+  ]
+}

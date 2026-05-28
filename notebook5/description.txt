@@ -1,0 +1,33 @@
+About Dataset
+Overview
+The Global Superstore Dataset is a comprehensive, multi-dimensional collection of retail transaction records designed for business intelligence, exploratory data analysis (EDA), and predictive modeling. Tracking over 50,000+ orders across 140+ countries, this tabular dataset simulates the operational footprint of a multinational e-commerce retailer. It serves as an ideal training ground for data visualization, supply chain optimization, and market basket analysis.
+
+Dataset Structure & Schema
+The data is structured into three primary tables to mimic realistic corporate data architectures:
+
+Orders Table (Transactional Logs)
+Temporal Features: Order Date, Ship Date (Essential for time-series forecasting).
+Geographic Demographics: Country, State, City, Region, Market.
+
+Product Classification: Category, Sub-Category, Product Name.
+
+Financial Performance: Sales, Quantity, Discount, Profit, Shipping Cost.
+
+Logistics Details: Order Priority, Ship Mode.
+
+Returns Table (Reverse Logistics)
+Features: Returned (Status flag), Order ID, Market.
+Application: Analyzes post-purchase friction, churn metrics, and product quality issues.
+
+People Table (Sales Governance)
+Features: Person (Regional Manager), Region.
+Application: Useful for categorical filtering, cohort analysis, and regional performance reviews.
+
+Core Data Science Use Cases
+Time-Series Forecasting: Predict future Sales and Profit trends using regression or advanced ARIMA/Prophet modeling frameworks.
+
+Customer Segmentation: Build RFM (Recency, Frequency, Monetary) clustering models to classify B2B and B2C segments (Consumer, Corporate, Home Office).
+
+Supply Chain & Logistics: Calculate delivery latency (Ship Date minus Order Date) to evaluate shipping efficiency across different shipping tiers and geographic regions.
+
+Interactive Dashboarding: An excellent baseline resource for building portfolio projects on Tableau, Power BI, or Streamlit.
