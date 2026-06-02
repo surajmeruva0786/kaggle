@@ -1,0 +1,69 @@
+About Dataset
+Global Hantavirus Surveillance Dataset (2026)
+Overview
+This dataset presents a comprehensive synthetic surveillance dataset inspired by publicly available hantavirus outbreak reports, epidemiological studies, and global public health monitoring trends.
+
+The dataset is designed for:
+
+Exploratory Data Analysis (EDA)
+Machine Learning projects
+Public Health Analytics
+Time-Series Forecasting
+Dashboard Development
+Outbreak Risk Analysis
+It simulates realistic hantavirus surveillance scenarios using environmental, demographic, and transmission-related variables commonly used in epidemiological research.
+
+Dataset Features
+The dataset includes:
+
+Global case monitoring records
+Virus strain information
+Transmission patterns
+Exposure source tracking
+Demographic details
+Environmental indicators
+Hospitalization and fatality data
+Quarantine monitoring variables
+Included Columns
+Column Name	Description
+case_id	Unique identifier for each case
+country	Country where the case was reported
+region	Regional/city-level information
+report_date	Date of reported case
+virus_strain	Detected hantavirus strain
+transmission_type	Rodent-to-human or human-to-human
+exposure_source	Source of exposure or infection
+patient_age	Age of patient
+gender	Gender of patient
+symptoms	Reported symptoms
+hospitalization	Hospitalization status
+fatality	Fatality status
+recovery_days	Estimated recovery duration
+temperature_celsius	Environmental temperature
+humidity_percent	Environmental humidity
+rodent_presence_index	Estimated rodent exposure risk score
+quarantine_days	Isolation duration
+population_density	Area population density
+air_quality_index	AQI of the region
+Potential Use Cases
+This dataset can be used for:
+
+Disease outbreak analysis
+Predictive modeling
+Healthcare dashboards
+Risk classification models
+Public health research
+Environmental correlation studies
+Time-series forecasting
+Data visualization projects
+Data Collection Methodology
+This dataset is synthetically generated while being inspired by:
+
+WHO outbreak monitoring reports
+CDC hantavirus surveillance trends
+Public epidemiological studies
+Global disease surveillance structures
+The purpose of this dataset is educational, analytical, and research-oriented.
+
+Disclaimer
+This dataset is synthetic and does not contain any personally identifiable or real patient information. It is intended solely for educational, analytical, and machine learning purposes.

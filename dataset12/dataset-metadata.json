@@ -1,0 +1,25 @@
+{
+  "title": "Global Wildfire Intelligence 2001-2026",
+  "id": "your-username/global-wildfire-intelligence-2001-2026",
+  "subtitle": "Satellite-detected fires across 42 regions \u2014 burn area, emissions, weather & drought index over 26 years",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC BY-SA 4.0"
+    }
+  ],
+  "keywords": [
+    "environment",
+    "climate",
+    "earth science",
+    "geospatial analysis",
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "time series analysis",
+    "regression",
+    "classification",
+    "public safety",
+    "natural language processing"
+  ]
+}

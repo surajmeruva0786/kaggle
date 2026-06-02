@@ -1,0 +1,144 @@
+region_id,region_name,country,month,events,avg_frp,avg_burn_area,avg_drought
+alg_nor,Northern Algeria,Algeria,7,67,1054.39,20587.97,0.56
+alg_nor,Northern Algeria,Algeria,8,76,603.16,21078.46,0.53
+alg_nor,Northern Algeria,Algeria,9,89,791.49,28438.59,0.56
+ang_cen,Central Angola,Angola,7,52,501.2,22987.15,0.52
+ang_cen,Central Angola,Angola,8,50,795.35,32759.47,0.57
+ang_cen,Central Angola,Angola,9,55,501.21,23904.31,0.53
+ang_cen,Central Angola,Angola,10,55,458.66,22366.78,0.5
+aus_nsw,New South Wales,Australia,1,71,2444.29,587654.0,0.64
+aus_nsw,New South Wales,Australia,2,82,3060.02,220764.05,0.67
+aus_nsw,New South Wales,Australia,11,90,3635.83,600437.29,0.7
+aus_nsw,New South Wales,Australia,12,56,5885.23,419165.72,0.71
+aus_qld,Queensland,Australia,8,50,971.74,267479.81,0.59
+aus_qld,Queensland,Australia,9,53,964.02,80798.15,0.59
+aus_qld,Queensland,Australia,10,73,1095.68,60033.14,0.61
+aus_qld,Queensland,Australia,11,70,1156.7,63750.64,0.57
+aus_vic,Victoria,Australia,1,79,2653.71,238662.47,0.67
+aus_vic,Victoria,Australia,2,101,3215.25,398057.9,0.66
+aus_vic,Victoria,Australia,12,102,2955.05,180786.4,0.72
+aus_wa,Western Australia,Australia,1,59,1340.71,51798.9,0.62
+aus_wa,Western Australia,Australia,2,71,1167.41,102618.38,0.67
+aus_wa,Western Australia,Australia,3,65,967.25,46937.85,0.6
+aus_wa,Western Australia,Australia,12,63,1484.67,132513.13,0.65
+bol_beni,Beni,Bolivia,7,69,684.0,41794.05,0.55
+bol_beni,Beni,Bolivia,8,53,885.58,106269.92,0.55
+bol_beni,Beni,Bolivia,9,48,780.48,18506.18,0.54
+bol_beni,Beni,Bolivia,10,57,629.25,17108.89,0.58
+bra_am,Amazonas,Brazil,8,46,1859.63,101479.98,0.58
+bra_am,Amazonas,Brazil,9,59,1274.69,126687.85,0.59
+bra_am,Amazonas,Brazil,10,57,996.83,36787.49,0.66
+bra_am,Amazonas,Brazil,11,48,1407.25,65312.21,0.6
+bra_mt,Mato Grosso,Brazil,7,57,1137.1,49182.34,0.66
+bra_mt,Mato Grosso,Brazil,8,55,876.73,32631.7,0.58
+bra_mt,Mato Grosso,Brazil,9,53,1004.57,204334.29,0.61
+bra_mt,Mato Grosso,Brazil,10,50,885.05,34243.63,0.61
+bra_pa,Para,Brazil,8,81,1309.21,141315.14,0.59
+bra_pa,Para,Brazil,9,78,1117.75,31294.82,0.6
+bra_pa,Para,Brazil,10,70,1151.72,61643.82,0.6
+ca_ab,Alberta,Canada,6,82,1735.77,128712.49,0.58
+ca_ab,Alberta,Canada,7,60,1781.19,101368.03,0.57
+ca_ab,Alberta,Canada,8,69,1778.77,60690.25,0.59
+ca_bc,British Columbia,Canada,7,74,1410.82,58406.99,0.54
+ca_bc,British Columbia,Canada,8,69,1119.6,35944.72,0.58
+ca_bc,British Columbia,Canada,9,64,1398.05,33049.27,0.56
+ca_qc,Quebec,Canada,6,58,1722.56,138018.16,0.55
+ca_qc,Quebec,Canada,7,84,1340.77,79227.72,0.51
+ca_qc,Quebec,Canada,8,61,1279.56,113307.68,0.51
+col_meta,Meta,Colombia,1,36,852.89,53387.67,0.51
+col_meta,Meta,Colombia,2,32,1067.91,23344.91,0.5
+col_meta,Meta,Colombia,3,28,1059.16,37774.68,0.49
+col_meta,Meta,Colombia,7,36,894.78,30440.28,0.48
+col_meta,Meta,Colombia,8,34,755.95,21803.04,0.55
+col_meta,Meta,Colombia,9,29,859.84,65575.1,0.49
+drc_kat,Katanga,DRC,7,63,699.62,36086.75,0.52
+drc_kat,Katanga,DRC,8,60,906.97,22220.64,0.52
+drc_kat,Katanga,DRC,9,60,788.4,14717.36,0.52
+esp_and,Andalusia,Spain,7,80,842.7,92299.95,0.59
+esp_and,Andalusia,Spain,8,79,744.96,19516.99,0.6
+esp_and,Andalusia,Spain,9,83,842.76,30805.57,0.58
+eth_rift,Ethiopian Rift,Ethiopia,1,52,514.97,45031.03,0.52
+eth_rift,Ethiopian Rift,Ethiopia,2,45,481.72,8384.66,0.51
+eth_rift,Ethiopian Rift,Ethiopia,3,47,332.23,7709.85,0.52
+eth_rift,Ethiopian Rift,Ethiopia,12,28,744.21,20073.42,0.49
+fra_paca,Provence,France,7,60,725.35,23866.87,0.58
+fra_paca,Provence,France,8,76,782.52,55029.0,0.51
+fra_paca,Provence,France,9,69,817.87,44983.64,0.56
+grc_att,Attica,Greece,7,94,1268.42,120259.15,0.69
+grc_att,Attica,Greece,8,104,996.53,38995.21,0.67
+grc_att,Attica,Greece,9,80,1313.57,154581.55,0.69
+idn_kal,Kalimantan,Indonesia,7,62,771.49,52103.32,0.6
+idn_kal,Kalimantan,Indonesia,8,65,674.68,22412.5,0.6
+idn_kal,Kalimantan,Indonesia,9,65,1031.91,25287.33,0.63
+idn_kal,Kalimantan,Indonesia,10,57,701.46,19608.69,0.63
+idn_sum,Sumatra,Indonesia,8,92,1276.5,78677.87,0.66
+idn_sum,Sumatra,Indonesia,9,75,1020.19,26440.71,0.66
+idn_sum,Sumatra,Indonesia,10,89,876.88,124790.53,0.68
+ind_chh,Chhattisgarh,India,3,56,539.75,17171.23,0.47
+ind_chh,Chhattisgarh,India,4,56,774.3,46053.34,0.45
+ind_chh,Chhattisgarh,India,5,62,562.74,25136.42,0.47
+ind_od,Odisha,India,3,56,796.96,65898.4,0.45
+ind_od,Odisha,India,4,55,940.15,29261.78,0.44
+ind_od,Odisha,India,5,56,743.7,36191.07,0.48
+ita_cal,Calabria,Italy,7,73,1089.81,65631.26,0.58
+ita_cal,Calabria,Italy,8,70,838.84,19063.53,0.6
+ita_cal,Calabria,Italy,9,73,670.26,40929.36,0.57
+mar_rif,Rif Mountains,Morocco,7,69,709.81,50075.1,0.52
+mar_rif,Rif Mountains,Morocco,8,63,628.67,66218.0,0.51
+mar_rif,Rif Mountains,Morocco,9,71,808.16,41699.81,0.55
+moz_zam,Zambezi Valley,Mozambique,9,67,986.33,62945.62,0.53
+moz_zam,Zambezi Valley,Mozambique,10,67,479.68,27392.2,0.52
+moz_zam,Zambezi Valley,Mozambique,11,61,1308.31,72383.87,0.5
+nam_osh,Oshikoto,Namibia,10,60,527.51,13809.34,0.46
+nam_osh,Oshikoto,Namibia,11,48,699.38,39653.56,0.46
+nam_osh,Oshikoto,Namibia,12,68,756.98,16040.26,0.47
+prt_cen,Central Portugal,Portugal,7,79,1113.57,37402.33,0.6
+prt_cen,Central Portugal,Portugal,8,97,920.54,89209.81,0.59
+prt_cen,Central Portugal,Portugal,9,84,747.65,45491.21,0.55
+rsa_kzn,KwaZulu-Natal,South Africa,1,49,372.58,14665.14,0.5
+rsa_kzn,KwaZulu-Natal,South Africa,2,39,477.43,9981.92,0.44
+rsa_kzn,KwaZulu-Natal,South Africa,11,55,447.09,37805.13,0.48
+rsa_kzn,KwaZulu-Natal,South Africa,12,61,531.13,30581.62,0.52
+sib_irkut,Irkutsk,Russia,6,53,1819.02,51915.94,0.57
+sib_irkut,Irkutsk,Russia,7,73,1214.35,48841.02,0.6
+sib_irkut,Irkutsk,Russia,8,75,1432.84,56229.16,0.6
+sib_kras,Krasnoyarsk,Russia,6,65,1699.37,129299.5,0.57
+sib_kras,Krasnoyarsk,Russia,7,60,624.28,48476.11,0.62
+sib_kras,Krasnoyarsk,Russia,8,67,1493.93,86388.85,0.59
+sib_yak,Yakutia,Russia,6,81,1423.53,45025.84,0.63
+sib_yak,Yakutia,Russia,7,97,979.12,47945.79,0.61
+sib_yak,Yakutia,Russia,8,72,1618.17,124967.71,0.66
+tur_ana,Anatolia Coast,Turkey,7,63,1205.46,53130.47,0.56
+tur_ana,Anatolia Coast,Turkey,8,72,981.7,122344.39,0.54
+tur_ana,Anatolia Coast,Turkey,9,68,1008.37,27116.7,0.6
+tza_tab,Tabora,Tanzania,8,57,800.87,44662.48,0.49
+tza_tab,Tabora,Tanzania,9,70,660.5,11620.0,0.45
+tza_tab,Tabora,Tanzania,10,61,530.33,16590.81,0.44
+us_ca,California,USA,7,59,1155.14,34013.16,0.66
+us_ca,California,USA,8,50,1044.7,73186.37,0.76
+us_ca,California,USA,9,62,1103.09,148630.91,0.69
+us_ca,California,USA,10,61,1607.17,137532.69,0.72
+us_ca,California,USA,11,64,1209.77,37946.44,0.73
+us_co,Colorado,USA,6,57,2163.91,268629.12,0.62
+us_co,Colorado,USA,7,65,1450.33,313777.55,0.66
+us_co,Colorado,USA,8,63,973.52,30903.37,0.65
+us_co,Colorado,USA,9,56,1857.94,305716.65,0.59
+us_fl,Florida,USA,3,50,1066.56,54111.6,0.55
+us_fl,Florida,USA,4,70,1092.99,43774.33,0.58
+us_fl,Florida,USA,5,74,1663.68,257906.79,0.55
+us_nm,New Mexico,USA,5,95,1930.33,148778.51,0.68
+us_nm,New Mexico,USA,6,85,1006.31,61925.26,0.63
+us_nm,New Mexico,USA,7,87,1431.5,71529.96,0.68
+us_or,Oregon,USA,7,77,1964.86,112386.54,0.61
+us_or,Oregon,USA,8,72,1564.25,128188.54,0.59
+us_or,Oregon,USA,9,70,1708.18,159448.34,0.6
+us_tx,Texas,USA,3,59,577.02,28363.14,0.61
+us_tx,Texas,USA,4,62,842.3,38356.46,0.55
+us_tx,Texas,USA,5,47,500.31,51337.81,0.6
+us_tx,Texas,USA,6,67,813.53,23936.32,0.61
+us_wa,Washington,USA,7,71,2132.64,640813.9,0.55
+us_wa,Washington,USA,8,66,1596.34,95962.32,0.61
+us_wa,Washington,USA,9,77,1469.8,116811.22,0.57
+zam_lus,Central Zambia,Zambia,8,52,750.42,33999.45,0.5
+zam_lus,Central Zambia,Zambia,9,69,941.15,63388.63,0.47
+zam_lus,Central Zambia,Zambia,10,50,636.65,20071.94,0.5
