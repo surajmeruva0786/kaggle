@@ -1,0 +1,51 @@
+country,region,income_group,avg_resistance_rate,mdr_rate,critical_resistance,total_amr_mortality,avg_antibiotic_use,surveillance_quality,pathogens_monitored
+DR Congo,Central Africa,Low,0.6256,0.96,0.827,127.5415,16.5488,1.44,25
+Yemen,Middle East,Low,0.5936,0.92,0.753,146.598,21.6288,1.08,25
+Ethiopia,East Africa,Low,0.5891,1.0,0.7231,109.4491,23.7704,1.52,25
+Tanzania,East Africa,Low,0.586,1.0,0.8165,103.9016,21.5168,1.48,25
+Uganda,East Africa,Low,0.5777,0.96,0.7358,128.3103,18.3276,1.48,25
+Mozambique,East Africa,Low,0.5748,0.92,0.722,124.3318,12.7792,1.24,25
+Afghanistan,Central Asia,Low,0.5657,0.96,0.7539,128.1166,19.5148,1.08,25
+India,South Asia,Lower-Middle,0.5308,0.88,0.8005,60.4583,56.5016,1.84,25
+Pakistan,South Asia,Lower-Middle,0.5257,0.92,0.7912,77.7214,63.476,1.6,25
+Nepal,South Asia,Lower-Middle,0.524,0.88,0.6778,74.106,35.1916,1.88,25
+Senegal,West Africa,Lower-Middle,0.5232,0.96,0.6831,65.0873,22.5372,1.88,25
+Vietnam,Southeast Asia,Lower-Middle,0.5205,0.96,0.706,65.782,46.4336,2.44,25
+Egypt,North Africa,Lower-Middle,0.5182,0.92,0.7722,70.226,49.9556,2.04,25
+Myanmar,Southeast Asia,Lower-Middle,0.515,0.84,0.6755,71.914,41.926,1.72,25
+Kenya,East Africa,Lower-Middle,0.5139,0.88,0.6628,66.0099,29.7276,1.52,25
+Ghana,West Africa,Lower-Middle,0.5055,0.96,0.7017,65.7054,26.6444,1.88,25
+Indonesia,Southeast Asia,Lower-Middle,0.5048,0.92,0.6786,60.181,42.3232,2.16,25
+Ukraine,Eastern Europe,Lower-Middle,0.5021,0.88,0.6638,64.2971,36.89,2.28,25
+Cambodia,Southeast Asia,Lower-Middle,0.4966,0.84,0.6445,59.8062,40.6948,2.12,25
+Philippines,Southeast Asia,Lower-Middle,0.4957,0.88,0.6754,53.9259,41.848,1.92,25
+Nigeria,West Africa,Lower-Middle,0.4879,0.92,0.6729,69.5637,31.9904,1.6,25
+Bangladesh,South Asia,Lower-Middle,0.4737,0.84,0.6001,53.5917,54.5932,1.88,25
+Turkey,Europe/Asia,Upper-Middle,0.4015,0.76,0.6088,22.9654,41.9724,3.16,25
+China,East Asia,Upper-Middle,0.3722,0.68,0.5241,21.0041,48.772,3.04,25
+Romania,Eastern Europe,Upper-Middle,0.369,0.8,0.5147,21.3655,32.0292,2.68,25
+Argentina,South America,Upper-Middle,0.3645,0.68,0.4765,23.533,25.6736,3.04,25
+Malaysia,Southeast Asia,Upper-Middle,0.3565,0.84,0.4992,17.764,20.8716,3.08,25
+Russia,Eastern Europe,Upper-Middle,0.3558,0.64,0.5065,20.4275,35.2784,2.32,25
+Colombia,South America,Upper-Middle,0.3506,0.56,0.4889,19.4912,23.6088,2.6,25
+Brazil,South America,Upper-Middle,0.3502,0.56,0.4689,22.2007,23.6572,2.96,25
+South Africa,Southern Africa,Upper-Middle,0.3462,0.76,0.4633,21.7781,17.022,2.44,25
+Mexico,North America,Upper-Middle,0.3402,0.72,0.4394,20.8187,23.0812,2.48,25
+Thailand,Southeast Asia,Upper-Middle,0.3353,0.44,0.4434,16.8505,38.6844,2.96,25
+Norway,Western Europe,High,0.2592,0.48,0.3651,5.7275,17.5916,3.92,25
+Canada,North America,High,0.2553,0.32,0.3487,5.3915,20.272,3.76,25
+United States,North America,High,0.2515,0.32,0.3406,4.8903,23.0204,3.72,25
+Denmark,Western Europe,High,0.2427,0.32,0.3428,5.2714,15.7972,4.16,25
+Australia,Oceania,High,0.239,0.48,0.3244,5.203,25.1564,3.36,25
+South Korea,East Asia,High,0.238,0.24,0.3063,4.7173,32.3072,3.6,25
+Italy,Western Europe,High,0.2371,0.4,0.3231,5.2461,29.548,3.64,25
+Germany,Western Europe,High,0.2369,0.24,0.3194,4.461,15.5944,3.96,25
+Switzerland,Western Europe,High,0.2354,0.6,0.3113,5.6547,18.8456,3.68,25
+Singapore,Southeast Asia,High,0.2343,0.36,0.3298,4.8111,18.7916,3.92,25
+Poland,Eastern Europe,High,0.2329,0.44,0.3229,5.9778,31.6904,3.56,25
+Japan,East Asia,High,0.2315,0.28,0.3157,6.0205,14.406,3.48,25
+Spain,Western Europe,High,0.2304,0.32,0.3053,5.2022,27.4536,3.52,25
+Sweden,Western Europe,High,0.2295,0.32,0.3219,4.7602,14.3268,3.88,25
+United Kingdom,Western Europe,High,0.2279,0.36,0.3331,5.2373,20.614,3.72,25
+Netherlands,Western Europe,High,0.227,0.6,0.3199,4.7008,11.5636,3.64,25
+France,Western Europe,High,0.2267,0.36,0.3233,4.4886,29.998,3.96,25

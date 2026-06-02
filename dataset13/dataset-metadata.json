@@ -1,0 +1,25 @@
+{
+  "title": "Global Antibiotic Resistance Intelligence 2010-2025",
+  "id": "your-username/global-antibiotic-resistance-intelligence-2010-2025",
+  "subtitle": "50 countries \u00d7 25 pathogens \u00d7 16 years \u2014 resistance rates, mortality, antibiotic use & economic burden",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC BY-SA 4.0"
+    }
+  ],
+  "keywords": [
+    "health",
+    "public health",
+    "biology",
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "regression",
+    "classification",
+    "time series analysis",
+    "economics",
+    "epidemiology",
+    "infectious disease"
+  ]
+}
