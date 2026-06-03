@@ -1,0 +1,23 @@
+{
+  "title": "NBA Player & Team Statistics 1980-2026",
+  "id": "your-username/nba-player-team-statistics-1980-2026",
+  "subtitle": "46 seasons of NBA data \u2014 player stats, team records, awards, salary & advanced metrics",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC BY-SA 4.0"
+    }
+  ],
+  "keywords": [
+    "sports",
+    "basketball",
+    "nba",
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "regression",
+    "classification",
+    "time series analysis",
+    "recommender systems"
+  ]
+}
